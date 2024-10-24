@@ -2,7 +2,7 @@
 Zero to Hero Series from [Andrej Karpath](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 ***
 ### Overview
-From many forums and conversations with Data Scientists/MLEs, learning through his course of `zero to hero` helps you cover the overview of deep learning methodologies.
+From many forums and conversations with Data Scientists/MLEs, learning through his course of `zero to hero` helps you learn the overview of deep.
 ***
 
 ### Video 1: Building Micrograd
