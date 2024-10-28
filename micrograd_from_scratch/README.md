@@ -1,8 +1,8 @@
 # zero_to_hero_nn
 Zero to Hero Series from [Andrej Karpath](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 ***
-### Overview
-From many forums and conversations with Data Scientists/MLEs, learning through his course of `zero to hero` helps you learn the overview of deep learning.
+### Overview: micrograd
+Going over the concept of NN and its structure of: forwardpass -> backward grad -> update weight -> repeat
 ***
 
 ### Video 1: Building Micrograd
